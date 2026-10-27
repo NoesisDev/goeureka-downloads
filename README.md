@@ -27,4 +27,6 @@ No account and no key are needed, and your files never leave your computer.
 
 Your files and results stay in `Documents/GoEureka` on your computer.
 
-This repository only holds the installers. Questions or problems: open an issue here.
+GoEureka is free and non-commercial, made by NoesisDev. By using it you agree to the [Terms of use](https://goeureka-omega.vercel.app/terms); see also the [Privacy policy](https://goeureka-omega.vercel.app/privacy).
+
+This repository only holds the installers. Questions or problems: write to [noesis.devs@gmail.com](mailto:noesis.devs@gmail.com) or open an issue here.
