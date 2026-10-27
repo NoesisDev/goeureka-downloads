@@ -18,10 +18,7 @@ The app is not signed by Apple or Microsoft yet, so the first start needs one ex
 - **Windows:** if SmartScreen says "Windows protected your PC", click **More info**, then **Run anyway**.
 - **Mac:** open the .dmg and drag GoEureka to Applications. Open it once; when macOS refuses, go to **System Settings > Privacy & Security** and click **Open Anyway**.
 
-To make quizzes for free, pick **On this computer** when GoEureka asks. Everything happens inside the app:
-
-1. Click **Download the AI engine**. This is [Ollama](https://ollama.com), a free AI engine, downloaded once from its official release (181 MB on a Mac, 1.6 GB on Windows). GoEureka checks the file, then starts and stops it by itself. If Ollama is already installed, GoEureka uses that one.
-2. Click **Download this model** on the suggested model for your computer (Balanced is 6.6 GB).
+To make quizzes for free, pick **On this computer** when GoEureka asks, then click **Install the AI**. That one button downloads everything once: [Ollama](https://ollama.com), a free AI engine, from its official release, and the model suggested for your computer (Balanced is 7.6 GB; with the engine about 7.8 GB on a Mac and 9.2 GB on Windows). GoEureka shows how long is left, checks the files, and starts and stops the engine by itself. If Ollama is already installed, GoEureka uses that one. **Choose another model** shows the smaller and bigger models.
 
 No account and no key are needed, and your files never leave your computer.
 
