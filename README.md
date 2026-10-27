@@ -10,7 +10,7 @@ A free study app for Windows and Mac. Add your slides, PDFs and notes, and GoEur
 
 <br>
 
-<img src="images/explained.png" alt="A histology picture question in GoEureka: the wrong answer is marked, the right one is shown, with an explanation of why" width="820">
+<img src="images/hero.jpg" alt="GoEureka: a blood smear picture question answered correctly with its explanation, in front of a results screen showing 14 of 17 right" width="900">
 
 </div>
 
