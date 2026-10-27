@@ -4,8 +4,7 @@
 
 ### Turn your lecture notes into quizzes that explain every mistake.
 
-A free study app for Windows and Mac. Add your slides, PDFs and notes, and GoEureka writes the questions,<br>
-checks your answers and shows you why, using your own material.
+A free study app for Windows and Mac. Add your slides, PDFs and notes, and GoEureka writes the questions, checks your answers and shows you why, using your own material.
 
 **[Download the latest version](../../releases/latest)** &nbsp;&nbsp;|&nbsp;&nbsp; [Use it in your browser](https://goeureka-omega.vercel.app) &nbsp;&nbsp;|&nbsp;&nbsp; Free, private, no ads
 
