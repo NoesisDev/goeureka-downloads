@@ -24,9 +24,11 @@ Answering questions makes you pull the facts out of your memory, and that is wha
 
 ## What you get
 
-- **Your material in, a quiz out.** PDFs, PowerPoint slides, Word files, Markdown and photos of your notes. Each file is turned into clean text once and kept in your library.
+- **Your material in, a quiz out.** PDFs, PowerPoint slides, Word files, Markdown and photos of your notes. Each file is turned into clean text once and kept in your library. Photos and scanned pages are read on your own computer.
 - **Every mistake explained.** Each wrong answer comes with the reason and the part of your material it came from, plus why the answer you picked is wrong.
-- **Real exam question types.** Multiple choice, true or false, select all that apply, questions about pictures like diagrams, slides and scans, and written answers that the AI grades.
+- **Real exam question types.** Multiple choice with 2 to 8 options, true or false, select all that apply, questions about pictures like diagrams, slides and scans, and written answers that the AI grades.
+- **Start right away.** The quiz opens as soon as the first questions pass the checks, and the rest are added while you answer.
+- **Make it yours.** Under Advanced, choose how many questions of each type and how many about pictures, how long the written answers and explanations are, and whether the questions spread over the whole file or focus on the main ideas.
 - **Your weak spots come back.** Retake only the questions you missed, review any quiz later, and see how you do in every topic on the Statistics page.
 - **Highlights.** Select any words in a question or explanation to highlight them. GoEureka collects them by subject and topic.
 - **Ready-made quizzes.** 21 public quizzes to start with right away, with 18 histology quizzes full of real microscope pictures, in English and Romanian.
@@ -53,7 +55,7 @@ Setting it up is one button: **Install the AI**. GoEureka downloads the free AI 
 | **Balanced** (suggested for most) | 7.6 GB | 16 GB | Good questions from most notes |
 | Best | 16 GB | 32 GB | The closest to the cloud AIs |
 
-Prefer the cloud? GoEureka also works with your own **Google Gemini** key (free), **OpenAI** key or **Claude** key. The cloud AIs are faster and write sharper questions; the local model is free, private and works offline.
+Prefer the cloud? GoEureka also works with your own **Google Gemini** key (free), **OpenAI** key or **Claude** key. The cloud AIs are faster and write sharper questions; the local model is free, private and works offline. With more than one set up, you pick which AI writes each quiz.
 
 ## Private by design
 
@@ -88,7 +90,7 @@ Then pick **On this computer** and click **Install the AI**. That one button dow
 
 **Is it good for medical students?** It was built with them: picture questions for histology slides, Latin terms kept as they are in your notes, and a ready-made histology collection. Please never upload patient data.
 
-**Do I need a powerful computer?** A laptop with 16 GB of memory runs the Balanced model well, and 8 GB is enough for Light. A 10 question quiz takes about 5 minutes on a recent laptop with Balanced. With a cloud key, any computer works.
+**Do I need a powerful computer?** A laptop with 16 GB of memory runs the Balanced model well, and 8 GB is enough for Light. A 10 question quiz takes about 5 to 10 minutes on a recent laptop with Balanced, and you can start answering after the first few. With a cloud key, any computer works.
 
 <br>
 
